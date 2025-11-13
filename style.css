@@ -15,7 +15,7 @@ div{
     align-items: center;
 }
 
-button{
+.btn{
     color: #fff;
     background-color: #f00;
     font-weight: bold;
